@@ -1,6 +1,7 @@
 # Console-Media-Player
 Console Media Player with basic commands
-Features
+
+.Features
 
 
  ### [Find Your Console](https://github.com/oshada97/Console-Media-Player)
